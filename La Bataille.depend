@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1773239029 source:c:\users\admin\onedrive - ministere de l'enseignement superieur et de la recherche scientifique\bureau\ihec\semestre 2\language c\la bataille\la bataille\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1775253121 source:c:\users\admin\onedrive - ministere de l'enseignement superieur et de la recherche scientifique\bureau\ihec\semestre 2\language c\la bataille\la bataille hiba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"carte.h"
+	"liste.h"
+	"file.h"
+	"pile.h"
+	"jeu.h"
+
+1775247908 c:\users\admin\onedrive - ministere de l'enseignement superieur et de la recherche scientifique\bureau\ihec\semestre 2\language c\la bataille\la bataille hiba\jeu.h
+	<string.h>
+	"carte.h"
+	"file.h"
+	"pile.h"
+	"liste.h"
+
+1775250927 c:\users\admin\onedrive - ministere de l'enseignement superieur et de la recherche scientifique\bureau\ihec\semestre 2\language c\la bataille\la bataille hiba\carte.h
+
+1775213952 c:\users\admin\onedrive - ministere de l'enseignement superieur et de la recherche scientifique\bureau\ihec\semestre 2\language c\la bataille\la bataille hiba\liste.h
+	"carte.h"
+
+1775215889 c:\users\admin\onedrive - ministere de l'enseignement superieur et de la recherche scientifique\bureau\ihec\semestre 2\language c\la bataille\la bataille hiba\file.h
+	"carte.h"
+
+1775248948 c:\users\admin\onedrive - ministere de l'enseignement superieur et de la recherche scientifique\bureau\ihec\semestre 2\language c\la bataille\la bataille hiba\pile.h
+	"carte.h"
+	"file.h"
+
+1775249628 source:c:\users\admin\onedrive - ministere de l'enseignement superieur et de la recherche scientifique\bureau\ihec\semestre 2\language c\la bataille\la bataille hiba\file.c
+	<stdio.h>
+	<stdlib.h>
+	"file.h"
+
+1775248894 source:c:\users\admin\onedrive - ministere de l'enseignement superieur et de la recherche scientifique\bureau\ihec\semestre 2\language c\la bataille\la bataille hiba\pile.c
+	<stdio.h>
+	<stdlib.h>
+	"pile.h"
+
+1775251447 source:c:\users\admin\onedrive - ministere de l'enseignement superieur et de la recherche scientifique\bureau\ihec\semestre 2\language c\la bataille\la bataille hiba\liste.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"liste.h"
+
+1775253259 source:c:\users\admin\onedrive - ministere de l'enseignement superieur et de la recherche scientifique\bureau\ihec\semestre 2\language c\la bataille\la bataille hiba\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jeu.h"
+
